@@ -10,4 +10,4 @@ Polymer 学习资源汇集
 
 学习资料
 =======
-1. Google I/O 2014 preview 北京GDG Polymer 分享；[Polymer 欢迎来到明天的世界](http://unbug.github.io/gdg14/)【 [源码](https://github.com/unbug/gdg14)】
+1. Google I/O 2014 preview 北京GDG Polymer 分享；[Polymer 欢迎来到明天的世界](http://unbug.github.io/gdg14/)【 [源码](https://github.com/unbug/gdg14)】2014.07.26
