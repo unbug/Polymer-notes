@@ -20,3 +20,4 @@ Polymer相关书籍
 2. [用Nginx 来替代 Google App Engine当服务器在本地预览Polymer文档的方法](https://github.com/c0710204/polymer_docs_nginx)
 3. Polymer使用经验分享 [@luofei614](http://weibo.com/luofei614) : [http://www.topthink.com/topic/2673.html](http://www.topthink.com/topic/2673.html)
 4. Polymer源码编译 [@懒虫一个V](http://weibo.com/spy19881221):[http://blog.csdn.net/spy19881201/article/details/38374275] (http://blog.csdn.net/spy19881201/article/details/38374275)
+5. Polymer学习指南 [@岛民不会抓鱼](http://weibo.com/daominge):[http://datoulei.github.io/polymer](http://datoulei.github.io/polymer)
