@@ -25,6 +25,7 @@ Polymer 已用于生产环境
 5. https://github.com/ForceDotComLabs/mobile-ui-elements
 6. http://bj.devfest.cn/
 7. http://polymerchina.org/
+8. http://gdgdc.com/
 
 
 学习资料
