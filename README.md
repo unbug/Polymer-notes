@@ -11,6 +11,10 @@ Polymer相关书籍
 =========
 1. [Patterns in Polymer] (http://patternsinpolymer.com/)
 
+Polymer 相关视频
+==========
+1. [Polycasts (Polymer播客系列)](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
+ 
 学习资料
 =======
 
@@ -21,3 +25,5 @@ Polymer相关书籍
 3. Polymer使用经验分享 [@luofei614](http://weibo.com/luofei614) : [http://www.topthink.com/topic/2673.html](http://www.topthink.com/topic/2673.html)
 4. Polymer源码编译 [@懒虫一个V](http://weibo.com/spy19881221):[http://blog.csdn.net/spy19881201/article/details/38374275] (http://blog.csdn.net/spy19881201/article/details/38374275)
 5. Polymer学习指南[@岛民不会抓鱼](http://weibo.com/daominge):[http://datoulei.github.io/polymer](http://datoulei.github.io/polymer) 合肥GDG 2014.08.24
+
+
