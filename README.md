@@ -14,6 +14,7 @@ Polymer相关书籍
 Polymer 相关视频
 ==========
 1. [Polycasts (Polymer播客系列)](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
+2. [IO Bytes 2014 - Chrome and Web](https://www.youtube.com/playlist?list=PLOU2XLYxmsII8L540LbY5hdC23cmoZMhV)
 
 Polymer 已用于生产环境
 ===========
