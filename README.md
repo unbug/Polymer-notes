@@ -14,7 +14,18 @@ Polymer相关书籍
 Polymer 相关视频
 ==========
 1. [Polycasts (Polymer播客系列)](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
- 
+
+Polymer 已用于生产环境
+===========
+1. http://www.polymer-project.org/
+2. http://itshackademic.com/
+3. http://io2014codelabs.appspot.com/static/index.html
+4. http://customelements.io/
+5. https://github.com/ForceDotComLabs/mobile-ui-elements
+6. http://bj.devfest.cn/
+7. http://polymerchina.org/
+
+
 学习资料
 =======
 
