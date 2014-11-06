@@ -38,4 +38,7 @@ Polymer 已用于生产环境
 4. Polymer源码编译 [@懒虫一个V](http://weibo.com/spy19881221):[http://blog.csdn.net/spy19881201/article/details/38374275] (http://blog.csdn.net/spy19881201/article/details/38374275)
 5. Polymer学习指南[@岛民不会抓鱼](http://weibo.com/daominge):[http://datoulei.github.io/polymer](http://datoulei.github.io/polymer) 合肥GDG 2014.08.24
 
+其他
+====
+1. Polymer For Ruby: https://github.com/alchapone/polymer-core-rails & https://github.com/alchapone/polymer-rails  & https://github.com/alchapone/polymer-paper-rails & https://github.com/alchapone/polymer-rails-example
 
