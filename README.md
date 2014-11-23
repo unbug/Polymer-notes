@@ -7,10 +7,6 @@ Polymer 学习资源汇集
 - Polymer 微博 [@Polymer中文社区](http://weibo.com/u/3631834213?from=profile&wvr=5&loc=infdomain)；QQ群：208264834
 - 组织者unbug的微博 [@听奏](http://weibo.com/unbug)
 
-Polymer相关书籍
-=========
-1. [Patterns in Polymer] (http://patternsinpolymer.com/)
-
 Polymer 相关视频
 ==========
 1. [Polycasts (Polymer播客系列)](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
@@ -37,6 +33,10 @@ Polymer 已用于生产环境
 9. http://bj.devfest.cn/
 10. http://polymerchina.org/
 11. http://gdgdc.com/
+
+Polymer相关书籍
+=========
+1. [Patterns in Polymer] (http://patternsinpolymer.com/)
 
 
 学习资料
