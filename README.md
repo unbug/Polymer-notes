@@ -49,12 +49,12 @@ Polymer相关书籍
 3. Polymer使用经验分享 [@luofei614](http://weibo.com/luofei614) : [http://www.topthink.com/topic/2673.html](http://www.topthink.com/topic/2673.html)
 4. Polymer源码编译 [@懒虫一个V](http://weibo.com/spy19881221):[http://blog.csdn.net/spy19881201/article/details/38374275] (http://blog.csdn.net/spy19881201/article/details/38374275)
 5. Polymer学习指南[@岛民不会抓鱼](http://weibo.com/daominge):[http://datoulei.github.io/polymer](http://datoulei.github.io/polymer) 合肥GDG 2014.08.24
-6. [@勾三股四 的DEMO](https://github.com/Jinjiang/webcompoents-demo) 包括上一则介绍视频中涉及的demo代码，还有2个分别基于 webcomponents 和 polymer 的 todolist
 
 Web Components
 =============
 - [webcomponents 系列规范中文翻译](http://w3c-html-ig-zh.github.io/webcomponents/)
 - [webcomponents 系列规范介绍视频](http://www.tudou.com/plcover/r0pA0z77CgM/)
+- [@勾三股四 的DEMO](https://github.com/Jinjiang/webcompoents-demo) 包括上一则介绍视频中涉及的demo代码，还有2个分别基于 webcomponents 和 polymer 的 todolist
 
 其他
 ====
