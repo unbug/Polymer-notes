@@ -15,6 +15,12 @@ Polymer 相关视频
 ==========
 1. [Polycasts (Polymer播客系列)](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 2. [IO Bytes 2014 - Chrome and Web](https://www.youtube.com/playlist?list=PLOU2XLYxmsII8L540LbY5hdC23cmoZMhV)
+3. [Chrome Dev Summit 2014](https://www.youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
+  - [Easy composition and reuse with Web Components - Chrome Dev Summit 2014 (Dimitri Glazkov)](https://www.youtube.com/watch?v=6vcQlD-jadk&index=8&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
+  - [Polymer: State of the Union - Chrome Dev Summit 2014 (Matt McNulty)](https://www.youtube.com/watch?v=0LT6W5QVCJI&index=9&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
+  - [Let’s build some apps with Polymer! - Chrome Dev Summit 2014 (Rob Dodson)](https://www.youtube.com/watch?v=kV0hgdMpH28&index=10&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
+  - [Web Components and Polymer Panel - Chrome Dev Summit 2014](https://www.youtube.com/watch?v=JuO5AZBrpC8&index=13&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
+
 
 Polymer 已用于生产环境
 ===========
