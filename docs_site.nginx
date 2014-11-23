@@ -1,0 +1,54 @@
+  server {
+        listen       40000;
+        server_name  localhost;
+
+        #charset koi8-r;
+        #access_log  logs/host.access.log  main;
+		root $polymer_docs_root;
+
+		#index
+		location ~ /platform(\.min\.|\.)js{
+			rewrite ^/platform.js /components/platform/platform.js break;		
+		}
+		location ~ /platform(.min)?.js.map{
+			rewrite ^/platform(.min)?.js.map /components/platform/platform.js.map break;		
+		}
+		location ~ /polymer(\.min)?.(js|html){
+			rewrite ^/polymer(\.min)?.(js|html) /components/polymer/polymer.($2) break;		
+		}
+		location ~  /polymer-body.html {
+			rewrite ^/polymer-body.html /components/polymer/polymer-body.html break;	
+		}
+		#tools
+		location ~ /tools/designer/components/(.*)$ {
+			rewrite ^/tools/designer/components/(.*) /components/$1 break;
+		}
+		location ~ /tools/designer(.*)$ {
+			rewrite ^/tools/designer(.*) /polymer-all/projects/designer$1 break;
+		}
+		#apps
+		location ~ /apps/(.+)/components/(.*)$ {
+			rewrite ^/apps/(.+)/components/(.*) /components/$2 break;
+		}
+		location ~ /apps/(.+)/(.*)$ {
+			rewrite ^/apps/(.+)/(.*) /polymer-all/projects/$1/$2 break;
+		}
+
+		#read local file
+		location ~ /polymer-all(.*)$ {
+            index  index.html index.htm;
+			autoindex on;
+		}
+		location ~ /components(.*)$ {
+            index  index.html index.htm;		
+			#autoindex on;
+		}
+		location ~ /_site(.*)$ {
+            index  index.html index.htm;	
+			#autoindex on;
+		}
+		#rewrite to static
+		location / {
+            rewrite ^(.*) /_site$1 break;
+        }
+    }
