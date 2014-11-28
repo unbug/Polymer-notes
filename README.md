@@ -52,6 +52,13 @@ Polymer相关书籍
 
 Web Components
 =============
+- HTML5 ROCKS
+  1. [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+  2. [HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
+  2. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+  3. [Shadow DOM 201](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
+  4. [Shadow DOM 301](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
+  5. [HTML Imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 - [webcomponents 系列规范中文翻译](http://w3c-html-ig-zh.github.io/webcomponents/)
 - [webcomponents 系列规范介绍视频](http://www.tudou.com/plcover/r0pA0z77CgM/)
 - [@勾三股四 的DEMO](https://github.com/Jinjiang/webcompoents-demo) 包括上一则介绍视频中涉及的demo代码，还有2个分别基于 webcomponents 和 polymer 的 todolist
