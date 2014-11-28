@@ -49,6 +49,8 @@ Web Components
   5. [HTML Imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 - [Web Components: A Tectonic Shift for Web Development - Google I/O 2013](https://www.youtube.com/watch?v=fqULJBBEVQE)
 - [DevBytes: Web Components 系列](https://www.youtube.com/watch?v=T5y_lmLngAk&list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w)
+- [Mozilla Brick](http://brick.mozilla.io/)
+- [X-Tag](http://x-tags.org/)
 - [webcomponents 系列规范中文翻译](http://w3c-html-ig-zh.github.io/webcomponents/)
 - [webcomponents 系列规范介绍视频](http://www.tudou.com/plcover/r0pA0z77CgM/)
 
