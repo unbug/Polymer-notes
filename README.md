@@ -1,6 +1,6 @@
 Polymer 学习资源汇集
 =============
-- [Polymer 官网英文镜像](http://en.polymerchina.org/)
+- Polymer 官网英文镜像 [http://en.polymerchina.org/](http://en.polymerchina.org/)
 - Polymer 中文社区官方网址 [http://polymerchina.org/](http://polymerchina.org/)
 - Polymer 中文文档 [http://docs.polymerchina.org](http://docs.polymerchina.org)
 - 欢迎捐助文档翻译 [https://github.com/unbug/docs/tree/ZH](https://github.com/unbug/docs/tree/ZH)
