@@ -17,7 +17,6 @@ Polymer 相关视频
   - [Let’s build some apps with Polymer! - Chrome Dev Summit 2014 (Rob Dodson)](https://www.youtube.com/watch?v=kV0hgdMpH28&index=10&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
   - [Web Components and Polymer Panel - Chrome Dev Summit 2014](https://www.youtube.com/watch?v=JuO5AZBrpC8&index=13&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
 
-
 Polymer 已用于生产环境
 ===========
 1. http://www.polymer-project.org/
@@ -34,6 +33,8 @@ Polymer 已用于生产环境
 12. http://bj.devfest.cn/
 13. http://polymerchina.org/
 14. http://gdgdc.com/
+15. https://usercycle.com/
+16. http://famehub.co/
 
 Polymer相关书籍
 =========
