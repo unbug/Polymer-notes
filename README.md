@@ -35,6 +35,7 @@ Polymer 已用于生产环境
 12. http://bj.devfest.cn/
 13. http://polymerchina.org/
 14. http://gdgdc.com/
+15. [builtwithpolymer.org](http://builtwithpolymer.org/)
 
 Polymer相关书籍
 =========
@@ -72,6 +73,7 @@ Web Components
 
 其他
 ====
-1. Polymer For Ruby: https://github.com/alchapone/polymer-core-rails & https://github.com/alchapone/polymer-rails  & https://github.com/alchapone/polymer-paper-rails & https://github.com/alchapone/polymer-rails-example
-2. [builtwithpolymer.org](http://builtwithpolymer.org/)
+1. [Material design theme for Bootstrap 3](https://github.com/FezVrasta/bootstrap-material-design)
+2. [Material design for Angular](https://github.com/angular/material)
+3. Polymer For Ruby: https://github.com/alchapone/polymer-core-rails & https://github.com/alchapone/polymer-rails  & https://github.com/alchapone/polymer-paper-rails & https://github.com/alchapone/polymer-rails-example
 
