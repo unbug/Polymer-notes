@@ -54,6 +54,7 @@ Web Components
 - [DevBytes: Web Components 系列](https://www.youtube.com/watch?v=T5y_lmLngAk&list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w)
 - [Mozilla Brick](http://brick.mozilla.io/)
 - [X-Tag](http://x-tags.org/)
+- [The Complementarity of React and Web Components](http://andrewrota.github.io/complementarity-of-react-and-web-components-presentation/index.html)
 - [webcomponents 系列规范中文翻译](http://w3c-html-ig-zh.github.io/webcomponents/)
 - [webcomponents 系列规范介绍视频](http://www.tudou.com/plcover/r0pA0z77CgM/)
 
