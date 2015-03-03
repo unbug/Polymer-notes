@@ -77,5 +77,6 @@ Web Components
 ====
 1. [Material design theme for Bootstrap 3](https://github.com/FezVrasta/bootstrap-material-design)
 2. [Material design for Angular](https://github.com/angular/material)
+3. [Material design for React](http://material-ui.com)
 3. Polymer For Ruby: https://github.com/alchapone/polymer-core-rails & https://github.com/alchapone/polymer-rails  & https://github.com/alchapone/polymer-paper-rails & https://github.com/alchapone/polymer-rails-example
 
