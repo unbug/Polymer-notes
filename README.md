@@ -42,7 +42,8 @@ Polymer 已用于生产环境
 
 Polymer相关书籍
 =========
-1. [Patterns in Polymer] (http://patternsinpolymer.com/)
+- [Developing Web Components](http://it-ebooks.info/book/5633/)
+- [Patterns in Polymer] (http://patternsinpolymer.com/)
 
 Web Components
 =============
