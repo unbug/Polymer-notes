@@ -75,6 +75,7 @@ Web Components
 6. [@勾三股四 的DEMO](https://github.com/Jinjiang/webcompoents-demo) 包括【webcomponents 系列规范介绍视频】介绍视频中涉及的demo代码，还有2个分别基于 webcomponents 和 polymer 的 todolist
 7. [Web Component 检测网站](http://jinjiang.github.io/webcompoents-demo/caniuse.html)
 8. [一步一步教你如何基本 #Polymer# 开发一个 #Material Design# 风格的在线聊天app](http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/)
+9. [A polymer core-animated-pages demo, inspired by topeka](https://github.com/StuartLee/core-animated-pages-demo)
 
 其他
 ====
