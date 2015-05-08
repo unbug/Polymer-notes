@@ -11,6 +11,8 @@ issue 格式：
 （有中英文版更好）
 
 
+1. Fireball Game Editor
+===================
 - 项目名称：Fireball Game Editor
 - 项目连接：[英文](http://fireball-x.com/en) [中文](http://fireball-x.com)
 - 项目简介
