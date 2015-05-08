@@ -24,7 +24,7 @@ issue 格式：
 >The editor design is deeply inspired by Unity which we believe has the most advanced game developing editor at the moment. Fireball advances in editor and tool extendability thanks to modern Web technology. We use a combination of Polymer, Electron, Nodejs and plain-old HTML and CSS. Web developers can easily hack the editor and create tools that empowers your workflow in no time.
 
 
-Credit Bank
+2. Credit Bank
 ===================
 - 项目名称：Credit Bank
 - 项目连接：公司内部项目，接口与数据不方便公开。
