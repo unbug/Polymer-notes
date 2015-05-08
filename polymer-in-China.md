@@ -4,19 +4,22 @@ Google I/O 2015 征集 Polymer 项目
 只要你的项目优秀，在现场被提到是有可能的哦 ;)
 
 issue 格式：
-- 项目名称
-- 项目连接
-- 项目简介
-- 视频演示（请上传到youtube）
+- Project Name: 项目名称
+- Company: 公司名称
+- Site: 线上地址
+- Vidoe: 简短视频演示（请上传到youtube）
+- Summary: 项目简介
 
 （有中英文版更好）
 
 
 1. Fireball Game Editor
 ===================
-- 项目名称：Fireball Game Editor
-- 项目连接：[英文](http://fireball-x.com/en) [中文](http://fireball-x.com)
-- 项目简介
+- Project Name：Fireball Game Editor
+- Company:  Firebox Technology Co., Ltd. 
+- Site：[en](http://fireball-x.com/en) [中文](http://fireball-x.com)
+- Video: 
+- Summary
 
 >Fireball is a Hackable editor that combines power of full GUI toolset and popular open sourced game engine such as Pixi.js and Cocos2D-JS to create cross-platform mobile and HTML5 games.
 
@@ -27,10 +30,11 @@ issue 格式：
 
 2. Credit Bank
 ===================
-- 项目名称：Credit Bank
-- 项目连接：公司内部项目，接口与数据不方便公开。
-- 视频：[Credit Bank](https://youtu.be/Nxtbv0JAQcM)
-- 项目简介
+- Project Name: Credit Bank
+- Company: Wandoulabs
+- Site: Private
+- Vidoe: [Credit Bank](https://youtu.be/Nxtbv0JAQcM)
+- Summary: 
 
 >*Credit Bank* is an internal project in Wandoulabs which intends to motivate employees to support each other and have more peer communication, aiming to build a culture full of mutual help within the company.
 
