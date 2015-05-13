@@ -41,3 +41,15 @@ issue 格式：
 >With *Credit Bank*, the employees are encouraged to submit *Mission*, a task that need the specific skill among the colleges to solve. Some amounts of reward, called *Credit*, will be paid to the employee who successfully execute the *Mission*, depending on the cost and degree of difficulty of the *Mission* and these *Credit* can be used to exchange for some other prizes and gifts.
 
 >The design of *Credit Bank* is enlightened by [topeka](https://polymer-topeka.appspot.com/).  The whole project mainly used *core / paper elements* of Polymer and totally use *Material Design* for reference. Some fancy animation effects, more specifically, are achieved with *core-animated-pages*.
+
+3. Test Platform for Android Apps
+===================
+- Project Name: Test Platform for Android Apps
+- Company: Wandoulabs
+- Site: Private
+- Vidoe: [Test platform built with Polymer](https://www.youtube.com/watch?v=A51O3njdi8s)
+- Summary: 
+
+>*Test Platform* is an integrated series solutions designed specifically for the testify needs of engineers in *Wandou Labs*. Front end design and ports of this project enables developers in the lab to execute all sets of test tasks, including stability, response speed and compatibility, on real mobile phones of all available brands and all versions of released operating systems. 
+
+>The front end design of *Test Platform* project utilizes *<core / paper elements>*  of ***Polymer*** and the visualization part of the page was achieved with *Highcharts* encapsulated in polymer web components. Today, the project have already been put online and widely used by developing groups among *Wandou Labs*.
