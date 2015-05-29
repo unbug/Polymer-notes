@@ -3,8 +3,8 @@ Polymer 学习资源汇集
 - Polymer 官网英文镜像 [http://en.polymerchina.org/](http://en.polymerchina.org/)
 - Polymer 中文社区官方网址 [http://polymerchina.org/](http://polymerchina.org/)
 - Polymer 中文文档 [http://docs.polymerchina.org](http://docs.polymerchina.org)
-- 欢迎捐助文档翻译 [https://github.com/unbug/docs/tree/ZH](https://github.com/unbug/docs/tree/ZH)
-- 中文文档翻译必读指南 [https://github.com/unbug/docs/blob/ZH/CONTRIBUTING-ZH.md](https://github.com/unbug/docs/blob/ZH/CONTRIBUTING-ZH.md)
+- 欢迎捐助文档翻译 [https://github.com/unbug/docs/tree/zh1.0.0](https://github.com/unbug/docs/tree/zh1.0.0)
+- 中文文档翻译必读指南 [https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md](https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md)
 - Polymer 微博 [@Polymer中文社区](http://weibo.com/u/3631834213?from=profile&wvr=5&loc=infdomain)；QQ群：208264834
 - Polymer Slack channel [polymer-slack.herokuapp.com](http://polymer-slack.herokuapp.com/)
 - [Road to polymer](http://chuckh.github.io/road-to-polymer/)
