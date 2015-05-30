@@ -6,7 +6,7 @@ Polymer 学习资源汇集
 - 欢迎捐助文档翻译 [https://github.com/unbug/docs/tree/zh1.0.0](https://github.com/unbug/docs/tree/zh1.0.0)
 - 中文文档翻译必读指南 [https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md](https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md)
 - Polymer 微博 [@Polymer中文社区](http://weibo.com/u/3631834213?from=profile&wvr=5&loc=infdomain)；QQ群：208264834
-- Polymer 中文社区的[Slack channel](https://polymer-cn.herokuapp.com/),用代码交流的好地方！
+- Polymer 中文社区的[Slack channel](https://polymer-cn.herokuapp.com/),与众多使用Polymer的同学用代码交流的好地方！
 - 中文社区组织者unbug的微博 [@听奏](http://weibo.com/unbug)
 
 Polymer 相关工具
