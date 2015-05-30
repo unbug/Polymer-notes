@@ -6,8 +6,8 @@ Polymer 学习资源汇集
 - 欢迎捐助文档翻译 [https://github.com/unbug/docs/tree/zh1.0.0](https://github.com/unbug/docs/tree/zh1.0.0)
 - 中文文档翻译必读指南 [https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md](https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md)
 - Polymer 微博 [@Polymer中文社区](http://weibo.com/u/3631834213?from=profile&wvr=5&loc=infdomain)；QQ群：208264834
-- Polymer Slack channel [polymer-slack.herokuapp.com](http://polymer-slack.herokuapp.com/)
-- [polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)  [中文](https://github.com/unbug/polymer-starter-kit/tree/zh)
+- Polymer 中文社区的[Slack channel](https://polymer-cn.herokuapp.com/),用代码交流的好地方！
+ [中文](https://github.com/unbug/polymer-starter-kit/tree/zh)
 - 中文社区组织者unbug的微博 [@听奏](http://weibo.com/unbug)
 
 Polymer 相关视频
@@ -21,6 +21,10 @@ Polymer 相关视频
   - [Web Components and Polymer Panel - Chrome Dev Summit 2014](https://www.youtube.com/watch?v=JuO5AZBrpC8&index=13&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
 4. [视频已实时同步到Youku - 由ChinaGDG提供](http://i.youku.com/u/UMjczOTc0NDkzNg==)
 
+Polymer 相关工具
+=================
+- [polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit) 
+- [Yeoman generator for Polymer projects](https://github.com/yeoman/generator-polymer)
 
 Polymer 已用于生产环境
 ===========
