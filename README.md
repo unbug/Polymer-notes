@@ -7,8 +7,30 @@ Polymer 学习资源汇集
 - 中文文档翻译必读指南 [https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md](https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md)
 - Polymer 微博 [@Polymer中文社区](http://weibo.com/u/3631834213?from=profile&wvr=5&loc=infdomain)；QQ群：208264834
 - Polymer 中文社区的[Slack channel](https://polymer-cn.herokuapp.com/),用代码交流的好地方！
- [中文](https://github.com/unbug/polymer-starter-kit/tree/zh)
 - 中文社区组织者unbug的微博 [@听奏](http://weibo.com/unbug)
+
+Polymer 相关工具
+=================
+- [polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit) [中文](https://github.com/unbug/polymer-starter-kit/tree/zh)
+- [Yeoman generator for Polymer projects](https://github.com/yeoman/generator-polymer)
+
+Web Components
+=============
+- HTML5 ROCKS
+  1. [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+  2. [HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
+  2. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+  3. [Shadow DOM 201](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
+  4. [Shadow DOM 301](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
+  5. [HTML Imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
+- [Web Components: A Tectonic Shift for Web Development - Google I/O 2013](https://www.youtube.com/watch?v=fqULJBBEVQE)
+- [DevBytes: Web Components 系列](https://www.youtube.com/watch?v=T5y_lmLngAk&list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w)
+- [Mozilla Brick](http://brick.mozilla.io/)
+- [X-Tag](http://x-tags.org/)
+- [The Complementarity of React and Web Components](http://andrewrota.github.io/complementarity-of-react-and-web-components-presentation/index.html)
+- [webcomponents 系列规范中文翻译](http://w3c-html-ig-zh.github.io/webcomponents/)
+- [webcomponents 系列规范介绍视频](http://www.tudou.com/plcover/r0pA0z77CgM/)
+
 
 Polymer 相关视频
 ==========
@@ -21,10 +43,6 @@ Polymer 相关视频
   - [Web Components and Polymer Panel - Chrome Dev Summit 2014](https://www.youtube.com/watch?v=JuO5AZBrpC8&index=13&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
 4. [视频已实时同步到Youku - 由ChinaGDG提供](http://i.youku.com/u/UMjczOTc0NDkzNg==)
 
-Polymer 相关工具
-=================
-- [polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit) 
-- [Yeoman generator for Polymer projects](https://github.com/yeoman/generator-polymer)
 
 Polymer 已用于生产环境
 ===========
@@ -50,24 +68,8 @@ Polymer相关书籍
 - [Developing Web Components](http://it-ebooks.info/book/5633/)
 - [Patterns in Polymer] (http://patternsinpolymer.com/)
 
-Web Components
-=============
-- HTML5 ROCKS
-  1. [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
-  2. [HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
-  2. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
-  3. [Shadow DOM 201](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
-  4. [Shadow DOM 301](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
-  5. [HTML Imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
-- [Web Components: A Tectonic Shift for Web Development - Google I/O 2013](https://www.youtube.com/watch?v=fqULJBBEVQE)
-- [DevBytes: Web Components 系列](https://www.youtube.com/watch?v=T5y_lmLngAk&list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w)
-- [Mozilla Brick](http://brick.mozilla.io/)
-- [X-Tag](http://x-tags.org/)
-- [The Complementarity of React and Web Components](http://andrewrota.github.io/complementarity-of-react-and-web-components-presentation/index.html)
-- [webcomponents 系列规范中文翻译](http://w3c-html-ig-zh.github.io/webcomponents/)
-- [webcomponents 系列规范介绍视频](http://www.tudou.com/plcover/r0pA0z77CgM/)
 
-学习资料
+开发者贡献的学习资料
 =======
 
 欢迎贡献你的学习笔记，原创DEMO，Slide等Polymer的学习资料的连接到这里来。
