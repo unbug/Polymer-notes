@@ -85,6 +85,7 @@ Polymer相关书籍
 8. [一步一步教你如何基本 #Polymer# 开发一个 #Material Design# 风格的在线聊天app](http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/)
 9. [A polymer core-animated-pages demo, inspired by topeka](https://github.com/StuartLee/core-animated-pages-demo)
 10. [Android SDK Web Manager](http://studyjams.dushu.hu/packages.html)
+11. [@w88975](https://github.com/w88975)[的学习笔记](http://www.codesama.com/tags/Polymer/)
 
 其他
 ====
